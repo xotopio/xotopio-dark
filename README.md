@@ -6,10 +6,10 @@ If you have any problems or wishes to improve the theme, please message me to xo
 
 ## Installation 🏁
 Download it from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=xotopio.xotopio-dark) or on
-[GitHub](https://github.com/xotopio/xotopio.dark) via:
+[GitHub](https://github.com/xotopio/xotopio-dark) via:
 
 ```
-git clone https://github.com/xotopio/xotopio.dark
+git clone https://github.com/xotopio/xotopio-dark
 ```
 
 ### step by step from the vs store
@@ -48,28 +48,28 @@ git clone https://github.com/xotopio/xotopio.dark
 ```
 
 #### HTML:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/html.png" width="700" height="600">
+<img src="https://raw.githubusercontent.com/KK-Designs/xotopio-dark/development/xotopio-dark/imgs/examples/html.png">
 
 #### JAVA:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/java.png" width="700" height="600">
+<img src="https://raw.githubusercontent.com/KK-Designs/xotopio-dark/development/xotopio-dark/imgs/examples/java.png">
 
 #### Javascript:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/js.png" width="700" height="600">
+<img src="https://raw.githubusercontent.com/KK-Designs/xotopio-dark/development/xotopio-dark/imgs/examples/js.png">
 
 #### Javascript Glow:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/jsg.png" width="700" height="500">
+<img src="https://raw.githubusercontent.com/KK-Designs/xotopio-dark/development/xotopio-dark/imgs/examples/jsg.png">
 
 #### CSS:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/css.png" width="300" height="580">
+<img src="https://raw.githubusercontent.com/KK-Designs/xotopio-dark/development/xotopio-dark/imgs/examples/css.png">
 
 #### C++:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/c++.png"  width="720" height="580">
+<img src="https://raw.githubusercontent.com/KK-Designs/xotopio-dark/development/xotopio-dark/imgs/examples/c%2B%2B.png">
 
 #### Ruby:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/ruby.png"  width="700" height="580">
+<img src="https://raw.githubusercontent.com/KK-Designs/xotopio-dark/development/xotopio-dark/imgs/examples/ruby.png">
 
 #### IN BLACK AND WHITE : Xotopio-light | Xotopio-Dark
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.dark/master/imgs/examples/new.png" width="800" height="500">
+<img src="https://raw.githubusercontent.com/KK-Designs/xotopio-dark/development/xotopio-dark/imgs/examples/new.png">
 
 ##### Contact Me 👨🏼‍💻
 by [xotopio](https://github.com/xotopio)
