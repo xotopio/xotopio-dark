@@ -6,10 +6,10 @@ If you have any problems or wishes to improve the theme, please message me to xo
 
 ## Installation 🏁
 Download it from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=xotopio.xotopio-dark) or on
-[GitHub](https://github.com/xotopio/xotopio.dark) via:
+[GitHub](https://github.com/xotopio/xotopio-dark) via:
 
 ```
-git clone https://github.com/xotopio/xotopio.dark
+git clone https://github.com/xotopio/xotopio-dark
 ```
 
 ### step by step from the vs store
